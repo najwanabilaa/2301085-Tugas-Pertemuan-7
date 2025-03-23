@@ -33,8 +33,6 @@ public class Main {
         } else {
             System.out.println("Persamaan tidak memiliki solusi.");
         }
-
-        input.close();
     }
 }
 
